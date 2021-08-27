@@ -1,0 +1,22 @@
+{
+  "name": "pasta-date",
+  "version": "0.0.1",
+  "description": "Making it easier to copy and past in date inputs",
+  "main": "src/pasta.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmachell/pasta-date.git"
+  },
+  "author": "Matt Machell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattmachell/pasta-date/issues"
+  },
+  "homepage": "https://github.com/mattmachell/pasta-date#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
